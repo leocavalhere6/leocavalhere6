@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Leonardo Cavalhere
 
-🎯 **Desenvolvedor Full Stack || Engenheiro De soFtware**           
+🎯 **Desenvolvedor Full Stack || Engenheiro De software**           
 💻 **Graduado em Ciência da Computação**  
 🚀 Em busca da **primeira oportunidade profissional em tecnologia**
 
