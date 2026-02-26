@@ -1,91 +1,87 @@
-# 👋 Olá, eu sou o Leonardo Cavalhere
+# 👋 Hi, I'm Leonardo Cavalhere  
 
-🎯 **Desenvolvedor Full Stack || Engenheiro De software**           
-💻 **Graduado em Ciência da Computação**  
-🚀 Em busca da **primeira oportunidade profissional em tecnologia**
+**Full Stack Developer | Backend-Focused | Software Engineering Enthusiast**
 
----
-
-## 👨‍💻 Sobre mim
-
-Sou um desenvolvedor **Full Stack em formação**, com foco em **engenharia de software**, boas práticas e desenvolvimento de produtos web reais.
-
-Atualmente, estou aprofundando meus estudos em **backend, arquitetura de software, testes e integração frontend/backend**, sempre buscando escrever código limpo, organizado e evolutivo.
-
-Tenho experiência acadêmica sólida, vivência com **projetos práticos** e estou constantemente evoluindo minhas aplicações para padrões utilizados no mercado.
+🎓 B.Sc. in Computer Science (2021–2025)  
+🚀 Actively seeking my first professional opportunity as a Backend or Full Stack Developer  
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 👨‍💻 About Me  
 
-### 🚀 Backend
-- Node.js
-- JavaScript (ES Modules)
-- API REST
-- Autenticação e autorização (em evolução)
-- Testes (Jest, TDD/BDD)
-- PostgreSQL
-- Docker
+I am a Full Stack Developer with a strong focus on backend engineering, software architecture, and clean code practices.
 
-### 🎨 Frontend
-- React
-- Next.js
-- HTML5 | CSS3
-- Integração com APIs REST
+I build real-world web applications from scratch, applying principles such as RESTful API design, modular architecture, automated testing, CI/CD, and containerization.
 
-### ⚙️ DevOps & Qualidade
-- Git & GitHub
-- GitHub Actions (CI/CD)
-- Versionamento de código
-- Testes automatizados
-- Boas práticas de QA
+I am continuously improving my backend skills, working with scalable APIs, authentication flows, database modeling, and production-ready environments.
+
+My goal is to grow as a software engineer while delivering maintainable and well-structured systems.
 
 ---
 
-## 📌 Projeto em Destaque
+## 🛠️ Tech Stack  
 
-### 📰 Clone do TabNews — Projeto Full Stack
+### Backend
+- Node.js  
+- JavaScript (ES Modules)  
+- REST APIs  
+- PostgreSQL  
+- Docker  
+- Authentication & Authorization (JWT, Sessions – in progress)  
+- Jest (Testing, TDD/BDD concepts)  
 
-🔗 **Repositório:** https://github.com/leocavalhere6/tabnews  
-🌐 **Demo:** https://tabnews-weld-ten.vercel.app
+### Frontend
+- React  
+- Next.js  
+- HTML5 & CSS3  
+- API Integration  
 
-Projeto desenvolvido simulando um **ambiente real de engenharia de software**, com foco em backend robusto, integração completa e evolução contínua da arquitetura.
-
-**Principais pontos:**
-- API REST versionada
-- Modelagem de banco de dados com PostgreSQL
-- Ambiente Dockerizado
-- Autenticação e sessões (em evolução)
-- Integração backend + frontend
-- Testes de integração
-- CI/CD com GitHub Actions
-- Refatorações estruturais e modularização progressiva
-
----
-
-## 🎓 Formação
-
-🎓 **Bacharelado em Ciência da Computação** — Estácio de Sá (2021–2025)  
-📚 **Curso.dev** — Formação Full Stack com projeto real  
-🧪 **Trilha de QA** — CESAR School  
-(Testes funcionais, automação, APIs, performance e CI/CD)
+### DevOps & Quality
+- Git & GitHub  
+- GitHub Actions (CI/CD pipelines)  
+- Automated Testing  
+- Version Control Best Practices  
 
 ---
 
-## 🤝 O que estou buscando
+## 🚀 Featured Project  
 
-- Primeira oportunidade como **Desenvolvedor Júnior**
-- Estágio ou posição **Full Stack / Backend**
-- Ambientes que valorizem aprendizado, código limpo e evolução técnica
+### 📰 TabNews Clone – Full Stack Application  
+
+🔗 **Repository:**  
+https://github.com/leocavalhere6/tabnews  
+
+🌐 **Live Demo:**  
+https://tabnews-weld-ten.vercel.app  
+
+A production-ready full stack project designed to simulate a real-world engineering environment.
+
+**Key highlights:**
+- Versioned REST API  
+- PostgreSQL database modeling  
+- Dockerized environment  
+- Backend + frontend integration  
+- CI/CD with GitHub Actions  
+- Progressive architectural refactoring  
+- Authentication and session management (ongoing improvements)  
 
 ---
 
-## 📫 Como me encontrar
+## 🎓 Education & Additional Training  
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/seu-linkedin
-- 💻 **GitHub:** https://github.com/leocavalhere6
-- 📧 **Email:** leocavalhere6@gmail.com
+- **B.Sc. in Computer Science** — Estácio de Sá (2021–2025)  
+- **Full Stack Training** — Curso.dev  
+- **QA & Testing Track** — CESAR School  
+  *(Functional testing, APIs, performance, CI/CD fundamentals)*  
+
+I’m looking for environments that value learning, code quality, and technical growth.
 
 ---
 
-⭐ Fique à vontade para explorar meus repositórios e acompanhar minha evolução!
+## 📫 Contact  
+
+💼 LinkedIn: *(your link here)*  
+💻 GitHub: https://github.com/leocavalhere6  
+📧 Email: leocavalhere6@gmail.com  
+
+📧 Email: leocavalhere6@gmail.com
