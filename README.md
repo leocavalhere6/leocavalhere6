@@ -80,7 +80,7 @@ I’m looking for environments that value learning, code quality, and technical 
 
 ## 📫 Contact  
 
-💼 LinkedIn: *(your link here)*  
+💼 LinkedIn: https://www.linkedin.com/in/leonardo-cavalhere/  
 💻 GitHub: https://github.com/leocavalhere6  
 📧 Email: leocavalhere6@gmail.com  
 
