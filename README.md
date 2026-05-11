@@ -1,87 +1,77 @@
-# 👋 Hi, I'm Leonardo Cavalhere  
+👋 Hi, I'm Leonardo Cavalhere  
+Full Stack Software Engineer | Backend-Focused | Building Production-Ready Systems
 
-**Full Stack Developer | Backend-Focused | Software Engineering Enthusiast**
+🎓 B.Sc. in Computer Science  
+🚀 Focused on Backend Engineering, Scalable APIs, Software Architecture & DevOps
 
-🎓 B.Sc. in Computer Science (2021–2025)  
-🚀 Actively seeking my first professional opportunity as a Backend or Full Stack Developer  
+👨‍💻 About Me
 
----
+I build real-world applications with a strong focus on backend engineering, scalability, clean architecture, and production-ready environments.
 
-## 👨‍💻 About Me  
+My experience includes designing REST APIs, authentication systems, database modeling, automated testing, CI/CD pipelines, and Dockerized applications using modern JavaScript/TypeScript ecosystems.
 
-I am a Full Stack Developer with a strong focus on backend engineering, software architecture, and clean code practices.
+I enjoy solving engineering problems involving:
+• Backend Architecture
+• API Design
+• Authentication & Security
+• Testing & Reliability
+• DevOps & CI/CD
+• Scalable Systems
 
-I build real-world web applications from scratch, applying principles such as RESTful API design, modular architecture, automated testing, CI/CD, and containerization.
+Currently working on full stack SaaS applications using Node.js, Next.js, PostgreSQL, Docker, and GitHub Actions.
 
-I am continuously improving my backend skills, working with scalable APIs, authentication flows, database modeling, and production-ready environments.
+🛠️ Tech Stack
 
-My goal is to grow as a software engineer while delivering maintainable and well-structured systems.
+Backend
+• Node.js
+• TypeScript
+• JavaScript
+• REST APIs
+• PostgreSQL
+• Docker
+• Authentication & Authorization
+• Jest • TDD • BDD
 
----
+Frontend
+• React
+• Next.js
+• HTML • CSS
 
-## 🛠️ Tech Stack  
+DevOps & Quality
+• GitHub Actions
+• CI/CD Pipelines
+• Automated Testing
+• Git & GitHub
+• Dockerized Environments
 
-### Backend
-- Node.js  
-- JavaScript (ES Modules)  
-- REST APIs  
-- PostgreSQL  
-- Docker  
-- Authentication & Authorization (JWT, Sessions – in progress)  
-- Jest (Testing, TDD/BDD concepts)  
+🚀 Featured Project
 
-### Frontend
-- React  
-- Next.js  
-- HTML5 & CSS3  
-- API Integration  
+📰 TabNews Clone — Production-Ready Full Stack Application
 
-### DevOps & Quality
-- Git & GitHub  
-- GitHub Actions (CI/CD pipelines)  
-- Automated Testing  
-- Version Control Best Practices  
+🔗 Repository:
+https://github.com/leocavalhere6/tabnews
 
----
+🌐 Live Demo:
+https://tabnews-weld-ten.vercel.app
 
-## 🚀 Featured Project  
+Key Engineering Highlights:
+• Versioned REST APIs
+• PostgreSQL relational modeling
+• Dockerized infrastructure
+• Secure authentication flows
+• Integration testing with Jest
+• CI/CD automation with GitHub Actions
+• MVC architecture & modularization
+• Full backend/frontend integration
 
-### 📰 TabNews Clone – Full Stack Application  
+🎓 Education
 
-🔗 **Repository:**  
-https://github.com/leocavalhere6/tabnews  
+B.Sc. in Computer Science — Estácio (2021–2025)
 
-🌐 **Live Demo:**  
-https://tabnews-weld-ten.vercel.app  
+📫 Contact
 
-A production-ready full stack project designed to simulate a real-world engineering environment.
+💼 LinkedIn:
+https://linkedin.com/in/leonardo-cavalhere
 
-**Key highlights:**
-- Versioned REST API  
-- PostgreSQL database modeling  
-- Dockerized environment  
-- Backend + frontend integration  
-- CI/CD with GitHub Actions  
-- Progressive architectural refactoring  
-- Authentication and session management (ongoing improvements)  
-
----
-
-## 🎓 Education & Additional Training  
-
-- **B.Sc. in Computer Science** — Estácio de Sá (2021–2025)  
-- **Full Stack Training** — Curso.dev  
-- **QA & Testing Track** — CESAR School  
-  *(Functional testing, APIs, performance, CI/CD fundamentals)*  
-
-I’m looking for environments that value learning, code quality, and technical growth.
-
----
-
-## 📫 Contact  
-
-💼 LinkedIn: https://www.linkedin.com/in/leonardo-cavalhere/  
-💻 GitHub: https://github.com/leocavalhere6  
-📧 Email: leocavalhere6@gmail.com  
-
-📧 Email: leocavalhere6@gmail.com
+📧 Email:
+leocavalhere6@gmail.com
