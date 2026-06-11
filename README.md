@@ -1,52 +1,85 @@
-👋 Hi, I'm Leonardo Cavalhere  
-Full Stack Software Engineer | Backend-Focused | Building Production-Ready Systems
+# 👋 Hi, I'm Leonardo Cavalhere
 
-🎓 B.Sc. in Computer Science  
-🚀 Focused on Backend Engineering, Scalable APIs, Software Architecture & DevOps
+## Full Stack Software Engineer | Backend-Focused | Building Production-Ready Systems
 
-👨‍💻 About Me
+🎓 Bachelor's Degree in Computer Science
 
-I build real-world applications with a strong focus on backend engineering, scalability, clean architecture, and production-ready environments.
+🚀 Passionate about Backend Engineering, Software Architecture, DevOps, and Scalable Systems
 
-My experience includes designing REST APIs, authentication systems, database modeling, automated testing, CI/CD pipelines, and Dockerized applications using modern JavaScript/TypeScript ecosystems.
+---
 
-I enjoy solving engineering problems involving:
-• Backend Architecture
-• API Design
-• Authentication & Security
-• Testing & Reliability
-• DevOps & CI/CD
-• Scalable Systems
+## 👨‍💻 About Me
 
-Currently working on full stack SaaS applications using Node.js, Next.js, PostgreSQL, Docker, and GitHub Actions.
+I'm a Full Stack Software Engineer with hands-on experience building modern web applications using Node.js, React, Next.js, and PostgreSQL.
 
-🛠️ Tech Stack
+My focus is on developing maintainable, scalable, and production-ready software while applying software engineering principles such as SOLID, Design Patterns, Clean Code, and System Design.
 
-Backend
-• Node.js
-• TypeScript
-• JavaScript
-• REST APIs
-• PostgreSQL
-• Docker
-• Authentication & Authorization
-• Jest • TDD • BDD
+I have practical experience building complete applications, from database modeling and backend APIs to frontend interfaces, automated testing, CI/CD pipelines, containerization, and cloud deployment.
 
-Frontend
-• React
-• Next.js
-• HTML • CSS
+### Areas of Interest
 
-DevOps & Quality
-• GitHub Actions
-• CI/CD Pipelines
-• Automated Testing
-• Git & GitHub
-• Dockerized Environments
+* Backend Engineering
+* Software Architecture
+* API Design
+* Authentication & Security
+* Automated Testing
+* DevOps & CI/CD
+* Cloud Infrastructure
+* Scalable Systems
 
-🚀 Featured Project
+---
 
-📰 TabNews Clone — Production-Ready Full Stack Application
+## 🛠️ Tech Stack
+
+### Backend
+
+* Node.js
+* TypeScript
+* JavaScript
+* NestJS
+* Express.js
+* REST APIs
+* PostgreSQL
+
+### Frontend
+
+* React
+* Next.js
+* Angular
+* HTML
+* CSS
+
+### Testing
+
+* Jest
+* Integration Testing
+* TDD
+* BDD
+
+### DevOps & Cloud
+
+* Docker
+* GitHub Actions
+* AWS
+* Terraform
+* Vercel
+* CI/CD Pipelines
+
+### Software Engineering
+
+* SOLID Principles
+* Design Patterns
+* MVC Architecture
+* Clean Code
+* System Design Fundamentals
+
+---
+
+## 🚀 Featured Project
+
+### 📰 TabNews Clone
+
+Production-ready Full Stack application inspired by TabNews.
 
 🔗 Repository:
 https://github.com/leocavalhere6/tabnews
@@ -54,24 +87,38 @@ https://github.com/leocavalhere6/tabnews
 🌐 Live Demo:
 https://tabnews-weld-ten.vercel.app
 
-Key Engineering Highlights:
-• Versioned REST APIs
-• PostgreSQL relational modeling
-• Dockerized infrastructure
-• Secure authentication flows
-• Integration testing with Jest
-• CI/CD automation with GitHub Actions
-• MVC architecture & modularization
-• Full backend/frontend integration
+#### Highlights
 
-🎓 Education
+* Authentication & Authorization
+* Versioned REST APIs
+* PostgreSQL Relational Database
+* Integration Testing with Jest
+* Dockerized Environment
+* CI/CD with GitHub Actions
+* MVC Architecture
+* Automated Deployments
+* Full Backend & Frontend Integration
 
-B.Sc. in Computer Science — Estácio (2021–2025)
+---
 
-📫 Contact
+## 🎓 Education
+
+**Bachelor's Degree in Computer Science**
+Estácio University (2021–2025)
+
+---
+
+## 📫 Contact
+
+📧 Email:
+[leocavalhere6@gmail.com](mailto:leocavalhere6@gmail.com)
 
 💼 LinkedIn:
 https://linkedin.com/in/leonardo-cavalhere
 
-📧 Email:
-leocavalhere6@gmail.com
+🐙 GitHub:
+https://github.com/leocavalhere6
+
+---
+
+⭐ Always learning, building, and improving as a software engineer.
