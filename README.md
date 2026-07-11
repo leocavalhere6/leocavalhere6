@@ -1,77 +1,73 @@
 # 👋 Hi, I'm Leonardo Cavalhere
 
-## Full Stack Software Engineer | Backend-Focused | Building Production-Ready Systems
+## Software Engineer | Backend / Full Stack
 
 🎓 Bachelor's Degree in Computer Science
 
-🚀 Passionate about Backend Engineering, Software Architecture, DevOps, and Scalable Systems
+🚀 Passionate about Backend Development, Software Engineering, and building modern web applications.
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Full Stack Software Engineer with hands-on experience building modern web applications using Node.js, React, Next.js, and PostgreSQL.
+I'm a Software Engineer focused on Backend and Full Stack development.
 
-My focus is on developing maintainable, scalable, and production-ready software while applying software engineering principles such as SOLID, Design Patterns, Clean Code, and System Design.
+I have hands-on experience building modern web applications using JavaScript, TypeScript, Node.js, React, Next.js, and PostgreSQL.
 
-I have practical experience building complete applications, from database modeling and backend APIs to frontend interfaces, automated testing, CI/CD pipelines, containerization, and cloud deployment.
+My experience includes developing REST APIs, authentication systems, user and session management, integration testing, containerized applications with Docker, and Continuous Integration pipelines using GitHub Actions.
 
-### Areas of Interest
-
-* Backend Engineering
-* Software Architecture
-* API Design
-* Authentication & Security
-* Automated Testing
-* DevOps & CI/CD
-* Cloud Infrastructure
-* Scalable Systems
+I'm always looking to improve my technical skills and build clean, maintainable, and reliable software.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
+### Languages
 
-* Node.js
-* TypeScript
-* JavaScript
-* NestJS
-* Express.js
-* REST APIs
-* PostgreSQL
+- JavaScript
+- TypeScript
+- Java
+- Python
+- C/C++
 
 ### Frontend
 
-* React
-* Next.js
-* Angular
-* HTML
-* CSS
+- React
+- Next.js
+- HTML
+- CSS
+
+### Backend
+
+- Node.js
+- Express.js
+- NestJS
+- PostgreSQL
+- REST APIs
+- JWT
+- bcrypt
 
 ### Testing
 
-* Jest
-* Integration Testing
-* TDD
-* BDD
+- Jest
+- Integration Testing
+- TDD
 
-### DevOps & Cloud
+### DevOps
 
-* Docker
-* GitHub Actions
-* AWS
-* Terraform
-* Vercel
-* CI/CD Pipelines
+- Docker
+- Docker Compose
+- GitHub Actions
+- Git
+- GitHub
+- Vercel
 
 ### Software Engineering
 
-* SOLID Principles
-* Design Patterns
-* MVC Architecture
-* Clean Code
-* System Design Fundamentals
+- SOLID
+- MVC
+- Clean Code
+- Layered Architecture
 
 ---
 
@@ -79,39 +75,60 @@ I have practical experience building complete applications, from database modeli
 
 ### 📰 TabNews Clone
 
-Production-ready Full Stack application inspired by TabNews.
+A Full Stack application inspired by TabNews.
 
-🔗 Repository:
+### Features
+
+- REST APIs
+- JWT Authentication
+- User & Session Management
+- Permission-based Authorization
+- Email Account Activation
+- PostgreSQL Database
+- Database Migrations
+- Integration Testing with Jest
+- Docker & Docker Compose
+- Continuous Integration with GitHub Actions
+
+🔗 Repository
+
 https://github.com/leocavalhere6/tabnews
 
-🌐 Live Demo:
+🌐 Live Demo
+
 https://tabnews-weld-ten.vercel.app
 
-#### Highlights
+---
 
-* Authentication & Authorization
-* Versioned REST APIs
-* PostgreSQL Relational Database
-* Integration Testing with Jest
-* Dockerized Environment
-* CI/CD with GitHub Actions
-* MVC Architecture
-* Automated Deployments
-* Full Backend & Frontend Integration
+## 🎯 Current Focus
+
+- Backend Development
+- Node.js
+- TypeScript
+- Software Engineering
+- REST APIs
+- Testing
+- Docker
 
 ---
 
 ## 🎓 Education
 
 **Bachelor's Degree in Computer Science**
-Estácio University (2021–2025)
+
+Estácio University (2021 – 2025)
 
 ---
 
 ## 📫 Contact
 
-📧 Email:
-[leocavalhere6@gmail.com](mailto:leocavalhere6@gmail.com)
+📧 Email
+
+leocavalhere6@gmail.com
+
+💼 LinkedIn
+
+linkedin.com/in/leonardo-cavalhere
 
 💼 LinkedIn:
 https://linkedin.com/in/leonardo-cavalhere
