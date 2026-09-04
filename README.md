@@ -1,141 +1,59 @@
-# 👋 Hi, I'm Leonardo Cavalhere
+# Hi, I'm Leonardo Cavalhere 👋
 
-## Software Engineer | Backend / Full Stack
+**Software Engineer**
 
-🎓 Bachelor's Degree in Computer Science
+I'm a Computer Science graduate focused on building backend and full-stack applications with an interest in **software architecture, performance, testing, and distributed systems**.
 
-🚀 Passionate about Backend Development, Software Engineering, and building modern web applications.
+### 🛠️ Tech Stack
 
----
+**Languages**
 
-## 👨‍💻 About Me
+* TypeScript / JavaScript
+* Java
+* SQL
 
-I'm a Software Engineer focused on Backend and Full Stack development.
+**Backend**
 
-I have hands-on experience building modern web applications using JavaScript, TypeScript, Node.js, React, Next.js, and PostgreSQL.
+* Node.js • Fastify • Express
+* Java • Spring Boot
+* REST APIs
+* PostgreSQL • Redis
 
-My experience includes developing REST APIs, authentication systems, user and session management, integration testing, containerized applications with Docker, and Continuous Integration pipelines using GitHub Actions.
+**Frontend**
 
-I'm always looking to improve my technical skills and build clean, maintainable, and reliable software.
+* React • Next.js
 
----
+**Engineering**
 
-## 🛠️ Tech Stack
+* Docker • Nginx • GitHub Actions
+* Jest • Playwright • JUnit
+* TDD • Integration & E2E Testing
+* Git • CI/CD
 
-### Languages
+### 🚀 What I Build
 
-- JavaScript
-- TypeScript
-- Java
-- Python
-- C/C++
+My projects include:
 
-### Frontend
+* **Full-stack applications** with authentication, security, testing, and CI/CD
+* **Payment and digital wallet APIs** with transactional business logic
+* **High-concurrency systems** using PostgreSQL transactions and row-level locking
+* **Resilient payment processing** with failover and external service integration
+* **Fraud detection systems** using vector search and similarity analysis
+* **Performance-oriented APIs** designed under strict CPU and memory constraints
 
-- React
-- Next.js
-- HTML
-- CSS
+### 📌 Featured Projects
 
-### Backend
+* [TabNews / Twitter-like Clone](https://github.com/leocavalhere6/tabnews) — Full-stack social platform with TypeScript, Next.js, PostgreSQL, Redis, testing and CI/CD.
+* **Digital Wallet API** — Java 21, Spring Boot, PostgreSQL, JWT, Flyway and automated testing.
+* **Rinha de Backend 2023–2026** — Backend implementations focused on concurrency, performance, resilience, payment processing and vector search.
 
-- Node.js
-- Express.js
-- NestJS
-- PostgreSQL
-- REST APIs
-- JWT
-- bcrypt
+### 🎯 Currently
 
-### Testing
+* Improving my backend and system design skills
+* Studying software architecture and cloud technologies
+* Building production-oriented projects
+* Looking for opportunities as a **Junior Software Engineer**
 
-- Jest
-- Integration Testing
-- TDD
+### 📫 Connect with me
 
-### DevOps
-
-- Docker
-- Docker Compose
-- GitHub Actions
-- Git
-- GitHub
-- Vercel
-
-### Software Engineering
-
-- SOLID
-- MVC
-- Clean Code
-- Layered Architecture
-
----
-
-## 🚀 Featured Project
-
-### 📰 TabNews Clone
-
-A Full Stack application inspired by TabNews.
-
-### Features
-
-- REST APIs
-- JWT Authentication
-- User & Session Management
-- Permission-based Authorization
-- Email Account Activation
-- PostgreSQL Database
-- Database Migrations
-- Integration Testing with Jest
-- Docker & Docker Compose
-- Continuous Integration with GitHub Actions
-
-🔗 Repository
-
-https://github.com/leocavalhere6/tabnews
-
-🌐 Live Demo
-
-https://tabnews-weld-ten.vercel.app
-
----
-
-## 🎯 Current Focus
-
-- Backend Development
-- Node.js
-- TypeScript
-- Software Engineering
-- REST APIs
-- Testing
-- Docker
-
----
-
-## 🎓 Education
-
-**Bachelor's Degree in Computer Science**
-
-Estácio University (2021 – 2025)
-
----
-
-## 📫 Contact
-
-📧 Email
-
-leocavalhere6@gmail.com
-
-💼 LinkedIn
-
-linkedin.com/in/leonardo-cavalhere
-
-💼 LinkedIn:
-https://linkedin.com/in/leonardo-cavalhere
-
-🐙 GitHub:
-https://github.com/leocavalhere6
-
----
-
-⭐ Always learning, building, and improving as a software engineer.
+[LinkedIn](YOUR_LINKEDIN_URL) • [GitHub](https://github.com/leocavalhere6)
