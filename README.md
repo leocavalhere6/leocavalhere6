@@ -43,7 +43,7 @@ My projects include:
 
 ### 📌 Featured Projects
 
-* [TabNews / Twitter-like Clone](https://github.com/leocavalhere6/tabnews) — Full-stack social platform with TypeScript, Next.js, PostgreSQL, Redis, testing and CI/CD.
+* **Twitter-like Clone** — Full-stack social platform with TypeScript, Next.js, PostgreSQL, Redis, testing and CI/CD.
 * **Digital Wallet API** — Java 21, Spring Boot, PostgreSQL, JWT, Flyway and automated testing.
 * **Rinha de Backend 2023–2026** — Backend implementations focused on concurrency, performance, resilience, payment processing and vector search.
 
