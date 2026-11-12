@@ -52,7 +52,7 @@ My projects include:
 * Improving my backend and system design skills
 * Studying software architecture and cloud technologies
 * Building production-oriented projects
-* Looking for opportunities as a **Junior Software Engineer**
+* Open to Backend & Full-Stack Software Engineering opportunities
 
 ### 📫 Connect with me
 
