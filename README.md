@@ -1,59 +1,46 @@
 # Hi, I'm Leonardo Cavalhere 👋
 
-**Software Engineer**
+**Software Engineer | Backend & Full Stack Development**
 
-I'm a Computer Science graduate focused on building backend and full-stack applications with an interest in **software architecture, performance, testing, and distributed systems**.
+I'm a Software Engineer with a background in Computer Science, focused on building backend systems and full-stack applications. I enjoy working with software architecture, databases, APIs, and scalable applications.
 
-### 🛠️ Tech Stack
+### 🛠️ Technologies & Tools
 
-**Languages**
+- **Languages:** TypeScript, JavaScript, Java, Python
+- **Backend:** Node.js, NestJS, Spring Boot, Express
+- **Frontend:** React, Next.js
+- **Databases:** PostgreSQL, Redis, MongoDB
+- **Infrastructure:** Docker, Kubernetes, Terraform, AWS
+- **Testing:** Jest, JUnit, Playwright
 
-* TypeScript / JavaScript
-* Java
-* SQL
+### 🚀 Featured Projects
 
-**Backend**
+**[Twitter Clone](https://github.com/leocavalhere6/tabnews)**
 
-* Node.js • Fastify • Express
-* Java • Spring Boot
-* REST APIs
-* PostgreSQL • Redis
+A modular full-stack social platform built with TypeScript, NestJS, Next.js, PostgreSQL, Redis, RabbitMQ, MongoDB, and GraphQL. Includes a modular monolith architecture, automated testing, and containerized infrastructure.
 
-**Frontend**
+**[Digital Wallet API](https://github.com/leocavalhere6/Digital-Wallet-API)**
 
-* React • Next.js
+A RESTful digital wallet API built with Java 21 and Spring Boot 3.4, featuring JWT authentication, secure money transfers, PostgreSQL, Flyway migrations, automated testing, and Docker.
 
-**Engineering**
+### 💼 Professional Experience
 
-* Docker • Nginx • GitHub Actions
-* Jest • Playwright • JUnit
-* TDD • Integration & E2E Testing
-* Git • CI/CD
+**AI & Data Evaluation Specialist — TELUS Digital AI Data Solutions**
 
-### 🚀 What I Build
+*August 2026 – Present | Remote*
 
-My projects include:
+- Evaluate AI-generated responses for technical accuracy, logical reasoning, and safety.
+- Perform bilingual English/Portuguese auditing for global AI projects.
+- Provide structured feedback supporting LLM fine-tuning and Reinforcement Learning from Human Feedback (RLHF).
 
-* **Full-stack applications** with authentication, security, testing, and CI/CD
-* **Payment and digital wallet APIs** with transactional business logic
-* **High-concurrency systems** using PostgreSQL transactions and row-level locking
-* **Resilient payment processing** with failover and external service integration
-* **Fraud detection systems** using vector search and similarity analysis
-* **Performance-oriented APIs** designed under strict CPU and memory constraints
+### 📚 Certifications & Training
 
-### 📌 Featured Projects
+**Hands-On AWS for Beginners — Run as Cloud**
 
-* **Twitter-like Clone** — Full-stack social platform with TypeScript, Next.js, PostgreSQL, Redis, testing and CI/CD.
-* **Digital Wallet API** — Java 21, Spring Boot, PostgreSQL, JWT, Flyway and automated testing.
-* **Rinha de Backend 2023–2026** — Backend implementations focused on concurrency, performance, resilience, payment processing and vector search.
+Practical training covering AWS services, including IAM, VPC, EC2, S3, RDS, EFS, ECS, Elastic Load Balancing, and Auto Scaling.
 
-### 🎯 Currently
+### 📫 Connect with Me
 
-* Improving my backend and system design skills
-* Studying software architecture and cloud technologies
-* Building production-oriented projects
-* Open to Backend & Full-Stack Software Engineering opportunities
+- **LinkedIn:** [Leonardo Cavalhere](https://www.linkedin.com/)
+- **GitHub:** [@leocavalhere6](https://github.com/leocavalhere6)
 
-### 📫 Connect with me
-
-[LinkedIn](YOUR_LINKEDIN_URL) • [GitHub](https://github.com/leocavalhere6)
