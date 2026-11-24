@@ -8,7 +8,7 @@ I'm a Software Engineer with a background in Computer Science, focused on buildi
 
 - **Languages:** TypeScript, JavaScript, Java, Python
 - **Backend:** Node.js, NestJS, Spring Boot, Express
-- **Frontend:** React, Next.js
+- **Frontend:** React, Angular, Next.js
 - **Databases:** PostgreSQL, Redis, MongoDB
 - **Infrastructure:** Docker, Kubernetes, Terraform, AWS
 - **Testing:** Jest, JUnit, Playwright
