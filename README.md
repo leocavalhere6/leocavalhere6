@@ -41,6 +41,6 @@ Practical training covering AWS services, including IAM, VPC, EC2, S3, RDS, EFS,
 
 ### 📫 Connect with Me
 
-- **LinkedIn:** [Leonardo Cavalhere](https://www.linkedin.com/)
+- **LinkedIn:** [Leonardo Cavalhere](www.linkedin.com/in/leonardo-cavalhere)
 - **GitHub:** [@leocavalhere6](https://github.com/leocavalhere6)
 
